@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/fontbox-2.0.18.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-2.0.18.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="lib/poi_3.9/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi_3.9/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="lib/poi_3.9/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="lib/poi_3.9/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="lib/poi_3.9/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.9.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
